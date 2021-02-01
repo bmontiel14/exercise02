@@ -13,7 +13,7 @@ public class Main {
                 System.out.println("It will likely snow on " + weekDays[i] + ".");
             }
         }
-        
+
 
 
 
